@@ -1,0 +1,19 @@
+.image_radius
+{
+    height: 50px;
+    width: 50px;
+    border: 1px solid #29B2E1;
+    border-radius: 100px;
+    box-shadow: 2px 2px 2px darkcyan;
+}
+
+.xnn-logo
+{
+    font-size: 0px;
+    text-indent: -9999px;
+    background: url("../images/logo-13.png") top center no-repeat #ee2841;
+    padding: 0px;
+    border-bottom: 0px;
+    color: #FFF;
+    height: 50px;
+}
